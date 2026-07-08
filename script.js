@@ -44,7 +44,7 @@ name:"Eggs",
 category:"Dairy & Eggs",
 weight:"6 pieces",
 price:55,
-image:"eggs.webp",
+image:"eggs.jpg",
 quantity:0
 },
 {
